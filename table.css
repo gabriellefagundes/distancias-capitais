@@ -1,0 +1,31 @@
+tr:hover {
+    background-color:rgb(177, 177, 177)
+}
+table, th, td {
+    border: 1px solid black;
+}
+ #macapa{
+    background-color: rgb(37, 127, 245);
+ }
+ h2{
+    background-color: rgb(37, 127, 245);
+    width: 160px;
+ }
+table, th, td {
+    border: 1px solid black;
+}
+th{
+    background-color: rgb(104, 157, 255);
+}
+table, th, td {
+    border: 1,6px solid black;
+ }
+ tr, td{
+    width: 100px; 
+ }
+ th{
+    height: 40px;
+}
+td{
+    text-align: center;
+}
