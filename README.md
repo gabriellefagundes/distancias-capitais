@@ -17,6 +17,18 @@
 
 Tabela criada nas aulas de Fundamentos de desenvolvimento web.  Nessas aulas, o professor trabalhou a distâncias entre capitais como aprendizagem de Visual Studio Code. Depois adicionamos esse projeto no Git Hub.
 
+## Capitais constantes incluídas no projeto
+
+As capitais utilizadas nesse projeto foram:
+
+* Curitiba
+* Florianópolis
+* Fortaleza 
+* Goiânia
+* João Pessoa
+* Maceió
+* Macapá - ATENÇÃO - A distância entre Macapá e as outras cidades é aérea.
+
 ## Técnicas e tecnologias utilizadas
 
 * Visual Studio Code
