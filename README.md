@@ -2,7 +2,7 @@
 
 ## 📋 Sobre o projeto
 
- O projeto de distâncias entre capitais brasileiras foi realizado na seguinte matéria:
+ O projeto de distâncias entre capitais brasileiras foi realizado em equipes de 4 pessoas na seguinte matéria:
  * Fundamentos de desenvolvimento Web.
 
  ## ATENÇÃO
