@@ -37,3 +37,5 @@ As capitais utilizadas nesse projeto foram:
 * Visual Studio Code
 * Git 
 * Git Hub
+* HTML5
+* CSS3
