@@ -27,7 +27,10 @@ As capitais utilizadas nesse projeto foram:
 * Goiânia
 * João Pessoa
 * Maceió
-* Macapá - ATENÇÃO - A distância entre Macapá e as outras cidades é aérea.
+* Macapá - 
+### ATENÇÃO 
+
+* A distância entre Macapá e as outras cidades é aérea.
 
 ## Técnicas e tecnologias utilizadas
 
